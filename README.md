@@ -144,12 +144,7 @@ int main(int argc, char *argv[]) {
 
 
 ## OUTPUT
-<img width="805" height="769" alt="image" src="https://github.com/user-attachments/assets/bd4f06ab-f456-4d64-9ade-1ec411fac057" />
-<img width="793" height="404" alt="image" src="https://github.com/user-attachments/assets/e5a90709-ffc0-4c80-a2b0-ff53a327eec6" />
-<img width="809" height="408" alt="image" src="https://github.com/user-attachments/assets/6f51ccdd-6770-4ae2-9085-fd071b1f6139" />
-
-
-
+<img width="1475" height="1067" alt="image" src="https://github.com/user-attachments/assets/133d773c-250b-4b35-b94f-9f995c5a6fa4" />
 
 
 # RESULT:
